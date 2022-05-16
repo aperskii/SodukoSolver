@@ -1,0 +1,10 @@
+C:\Users\aperski\source\repos\SodukoSolver\SodukoSolver\bin\Debug\SodukoSolver.exe.config
+C:\Users\aperski\source\repos\SodukoSolver\SodukoSolver\bin\Debug\SodukoSolver.exe
+C:\Users\aperski\source\repos\SodukoSolver\SodukoSolver\bin\Debug\SodukoSolver.pdb
+C:\Users\aperski\source\repos\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.csproj.AssemblyReference.cache
+C:\Users\aperski\source\repos\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.Soduko.resources
+C:\Users\aperski\source\repos\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.Properties.Resources.resources
+C:\Users\aperski\source\repos\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.csproj.GenerateResource.cache
+C:\Users\aperski\source\repos\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.csproj.CoreCompileInputs.cache
+C:\Users\aperski\source\repos\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.exe
+C:\Users\aperski\source\repos\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.pdb
